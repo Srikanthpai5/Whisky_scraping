@@ -1,7 +1,5 @@
 path = "D:\\PyCharm_Files\\selenium\\chromedriver_win32\\chromedriver.exe"
 
-# analytics vidya scraping indeed jobs
-
 from selenium import webdriver
 import pandas as pd
 import time
@@ -25,6 +23,5 @@ for job in job_list:
 
 driver.close()
 
-# scraping not complete -- couldnt figure out
+# scraping not complete -- cls&&exit
 
-# https://www.analyticsvidhya.com/blog/2020/10/web-scraping-selenium-in-python/
